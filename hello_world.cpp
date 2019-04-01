@@ -3,6 +3,9 @@ using namespace std;
 
 void main()
 {
- cout<<"Hello World";
+ char N[15];
+ cout<<"Enter your username: ";
+ cin>>N;
+ cout<<"Hello World "<<N;
 }
 # lab02-Homework-
